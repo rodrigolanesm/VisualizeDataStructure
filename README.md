@@ -3,7 +3,7 @@ Project to visualize how data structure works.
 
 You can add, remove by position, remove by value or search any element in the selected Data Structure.
 
-It was used Python's Library [TKinter](https://docs.python.org/3/library/tkinter.html) and [Canvas](https://pythonbasics.org/tkinter-canvas/) for graphical design.
+It was used Python's Library [Tkinter](https://docs.python.org/3/library/tkinter.html) and [Canvas](https://pythonbasics.org/tkinter-canvas/) for graphical design.
 
 ## Installation
 Download the zip file or clone the repository
