@@ -20,10 +20,12 @@ python3 main.py
 
 ## Contribution
 
+[Carlos Rafael Novack](https://github.com/Futuriiiii)
+
 [Henrique Andrade](https://github.com/Henrique-Andrade-Franca)
 
 [Ludmila Gomes](https://github.com/LudmilaGomes)
 
 [Pedro Márcio](https://github.com/pedroca06093)
 
-[Carlos Rafael Novack](https://github.com/Futuriiiii)
+[Rodrigo Lanes](https://github.com/rodrigolanesm)
