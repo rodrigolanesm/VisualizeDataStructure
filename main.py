@@ -1,6 +1,9 @@
-import LDE;
-import LSE;
-import LSeq;
+import LDE
+import LSE
+import LSeq
+import SQ
+import SS
+import ABP
 
 import tkinter as tk
 
@@ -37,9 +40,15 @@ class Menu:
             run = LSE.LSE()
         elif opcao == "Lista Duplamente Encadeada":
             run = LDE.LDE()
+        elif opcao == "Fila":
+            run = SQ.SQ()
+        elif opcao == "Pilha":
+            run = SS.SS()
+        elif opcao == "Árvore Binária de Pesquisa":
+            run = ABP.ABP()
 
 # Cria um objeto da classe Menu com as opções desejadas
-menu = Menu(["Lista Sequencial", "Lista Simplesmente Encadeada", "Lista Duplamente Encadeada"])
+menu = Menu(["Lista Sequencial", "Lista Simplesmente Encadeada", "Lista Duplamente Encadeada", "Fila", "Pilha", "Árvore Binária de Pesquisa"])
 
 # Cria um objeto da classe InterfaceGrafica com o objeto menu como argumento
 interface = InterfaceGrafica(menu)
